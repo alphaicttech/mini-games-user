@@ -1,0 +1,2 @@
+-- Run `npm run drizzle:generate` and `npm run drizzle:migrate` to maintain generated SQL.
+-- This file is intentionally minimal placeholder for first migration tracking.
